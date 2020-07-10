@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHub account!
+
+I'm Colin, and (probably like everybody here), I love coding. 
+
+My languages of choice are R, JavaScript and Docker.
+
+You can learn more about me on my website [colinfay.me](https://colinfay.me) and on Twitter at [@_ColinFay](https://twitter.com/_ColinFay).
+
 <!--
 **ColinFay/colinfay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
