@@ -16,8 +16,6 @@ Here are some of the things I've been working on lately:
 
 + 👨‍💻 [`{hexmake}`](https://connect.thinkr.fr/hexmake/), a web app to design hex stickers
 
-<iframe src="https://connect.thinkr.fr/hexmake/"></iframe>
-
 I also have a bunch of Docker image I maintain on my [Docker hub](https://hub.docker.com/u/colinfay). 
 
 I love to speak around the world, and most of my talks are available on my [speakerdeck](https://speakerdeck.com/colinfay), and if you're looking for the video I try to keep the list on [my website](https://colinfay.me/talks-publications/) up to date. 
