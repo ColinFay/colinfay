@@ -4,7 +4,7 @@ Welcome to my GitHub account!
 
 I'm Colin, and (probably like a lot of people here), I love writing code. 
 
-My languages of choice are R, JavaScript and Docker, and what I love to do is build infrastructures and backends. 
+My languages of choice are R, JavaScript and Docker. I love building infrastructures and backends. 
 
 Here are some of the things I've been working on lately: 
 
