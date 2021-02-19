@@ -12,6 +12,8 @@ Here are some of the things I've been working on lately:
 
 + 📚 [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org), a book about building `{shiny}` applications for production
 
++ 📦 [`{brochure}`](https://github.com/ColinFay/brochure), Natively Multipage Shiny Apps
+
 + 📦 [`hordes`](https://github.com/ColinFay/hordes), a NodeJS module that can call R 
 
 + 👨‍💻 [`{hexmake}`](https://connect.thinkr.fr/hexmake/), a web app to design hex stickers
