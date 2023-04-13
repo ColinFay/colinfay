@@ -8,15 +8,13 @@ My languages of choice are R, JavaScript and Docker. I love building infrastruct
 
 Here are some of the things I've been working on lately: 
 
++ Most of my work can be found at [golemverse.org](https://golemverse.org/)
+
 + 📦 [`{golem}`](https://github.com/ThinkR-open/golem), a framework for building production-grade `{shiny}` applications
 
 + 📚 [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org), a book about building `{shiny}` applications for production
 
 + 📦 [`{brochure}`](https://github.com/ColinFay/brochure), Natively Multipage Shiny Apps
-
-+ 📦 [`hordes`](https://github.com/ColinFay/hordes), a NodeJS module that can call R 
-
-+ 👨‍💻 [`{hexmake}`](https://connect.thinkr.fr/hexmake/), a web app to design hex stickers
 
 I also have a bunch of Docker image I maintain on my [Docker hub](https://hub.docker.com/u/colinfay). 
 
