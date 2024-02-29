@@ -14,7 +14,7 @@ Here are some of the things I've been working on lately:
 
 + 📚 [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org), a book about building `{shiny}` applications for production
 
-+ 📦 [`{brochure}`](https://github.com/ColinFay/brochure), Natively Multipage Shiny Apps
++ 📦 [`webrcli`](https://github.com/ColinFay/webrcli) and [`spidyr`](https://github.com/ColinFay/spidyr), a toolkit for working with NodeJS & webR.
 
 I also have a bunch of Docker image I maintain on my [Docker hub](https://hub.docker.com/u/colinfay). 
 
