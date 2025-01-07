@@ -1,14 +1,39 @@
-### Hi there 👋
+# Hi there, I'm Colin Fay 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=ColinFay&color=green)
 
 Welcome to my GitHub account!
 
-I'm Colin, and (probably like a lot of people here), I love writing code. 
+## About Me
 
-My languages of choice are R, JavaScript and Docker. I love building infrastructures and backends. 
+I'm a passionate developer with a strong experience in R, data & software engineering, and open-source contributions. 
+
+- 🌱 Always learning more about building great software
+- 🔭 Working on exciting open-source projects
+- 💬 Ask me about R, software engineering, and open-source contributions
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also an ultra runner 🏃 & a metalhead 🤘
+
+## Technologies & Tools
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## GitHub Stats
+
+![ColinFay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinFay&show_icons=true&hide_border=true&theme=dark)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinFay&layout=compact&hide_border=true&theme=dark)
+
+## Projects
 
 Here are some of the things I've been working on lately: 
 
-+ Most of my work can be found at [golemverse.org](https://golemverse.org/)
++ 📱 [Rlinguo](https://rtask.thinkr.fr/introducing-rlinguo-a-native-mobile-app-that-runs-r/), a native mobile app that runs R
 
 + 📦 [`{golem}`](https://github.com/ThinkR-open/golem), a framework for building production-grade `{shiny}` applications
 
@@ -16,7 +41,7 @@ Here are some of the things I've been working on lately:
 
 + 📦 [`webrcli`](https://github.com/ColinFay/webrcli) and [`spidyr`](https://github.com/ColinFay/spidyr), a toolkit for working with NodeJS & webR.
 
-I also have a bunch of Docker image I maintain on my [Docker hub](https://hub.docker.com/u/colinfay). 
+## Connect with Me
 
 I love to speak around the world, and most of my talks are available on my [speakerdeck](https://speakerdeck.com/colinfay), and if you're looking for the video I try to keep the list on [my website](https://colinfay.me/talks-publications/) up to date. 
 
